@@ -25,3 +25,5 @@ Are you preparing for a Javascript Interview? Here are some commonly asked outpu
 2️⃣3️⃣ Explain the output of `console.log('10' - - '5')` and the type coercion involved.
 2️⃣4️⃣ Predict the output of `console.log(null + null)` and explain the result.
 2️⃣5️⃣ What will be printed to the console when `console.log([] == '')` is executed and why?
+
+shanti.upase@synechron.com.
